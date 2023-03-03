@@ -62,8 +62,8 @@ a:hover {
     border-radius: 4px;
 }
   .btn-black:hover {
-    background-color: #d3d3d3;
-    color: white;
+    background-color: white;
+    color: black;
 }
 .list-inline {
     list-style: none;
@@ -79,7 +79,8 @@ a:hover {
     color: black;
 }
 .list-inline i:hover {
-    color: rgb(211, 211, 211);
+    background-color: black;
+    color: white;
 }
 #introduction p {
     margin-bottom: 40px;
